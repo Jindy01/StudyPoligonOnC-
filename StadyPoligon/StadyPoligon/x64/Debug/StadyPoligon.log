@@ -1,3 +1,21 @@
-﻿  main.cpp
-D:\ProgectONc++\StadyPoligon\StadyPoligon\main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-D:\ProgectONc++\StadyPoligon\StadyPoligon\main.cpp(18,26): error C2177: слишком большая константа
+﻿  test.cpp
+  Калькулятор.cpp
+C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Калькулятор.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Калькулятор.cpp(42,6): warning C4101: a: неиспользованная локальная переменная
+  Массивы.cpp
+  Переменные.cpp
+C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Переменные.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Условные-конструкции.cpp
+C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Условные-конструкции.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Циклы и операторы в них.cpp
+C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Циклы и операторы в них.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Циклы и операторы в них.cpp(45,30): error C2059: синтаксическая ошибка: ;
+C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Циклы и операторы в них.cpp(47,3): error C2059: синтаксическая ошибка: else
+C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Циклы и операторы в них.cpp(49,4): error C2059: синтаксическая ошибка: while
+C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Циклы и операторы в них.cpp(51,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Циклы и операторы в них.cpp(51,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Циклы и операторы в них.cpp(51,7): error C2059: синтаксическая ошибка: <<
+C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Циклы и операторы в них.cpp(53,2): error C2059: синтаксическая ошибка: return
+C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Циклы и операторы в них.cpp(54,1): error C2059: синтаксическая ошибка: }
+C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Циклы и операторы в них.cpp(54,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+  Создание кода...

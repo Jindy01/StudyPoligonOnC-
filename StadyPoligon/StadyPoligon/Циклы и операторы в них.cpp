@@ -7,24 +7,24 @@ int main() {
 	srand(time(NULL));
 	setlocale(LC_ALL, "RU");
 
-	//for (int i = 100; i >= 10 ; i--) {
-	//	if (i % 2 == 0) {
-	//		continue;
-	//	}
-	//	cout << "1 - EL: " << i << endl;
-	//}
+	////////for (int i = 100; i >= 10 ; i--) {
+	////////	if (i % 2 == 0) {
+	////////		continue;
+	////////	}
+	////////	cout << "1 - el: " << i << endl;
+	////////}
 
-	//float j = 100;
-	//while (j > 1) {
-	//	cout << "2 - EL: " << j << endl;
-	//	j /= 1.5f;
-	//}
+	////////float j = 100;
+	////////while (j > 1) {
+	////////	cout << "2 - el: " << j << endl;
+	////////	j /= 1.5f;
+	////////}
 
-	//int k = 100;
-	//do {
-	//	cout << "3 - EL: " << k << endl;
-	//	k -= 10;
-	//} while (k < 10);
+	////////int k = 100;
+	////////do {
+	////////	cout << "3 - el: " << k << endl;
+	////////	k -= 10;
+	////////} while (k < 10);
 
 	//	Мини игра для ПК
 
