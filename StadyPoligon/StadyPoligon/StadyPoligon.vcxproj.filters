@@ -36,7 +36,19 @@
     <ClCompile Include="Динамиская память.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Функции.cpp">
+    <ClCompile Include="Перегрузка Функций.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Указатели и ссылки .cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Функции +.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Работа с файлами.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Структура Данных.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
