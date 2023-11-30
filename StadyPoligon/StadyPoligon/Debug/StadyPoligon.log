@@ -1,4 +1,4 @@
-﻿  Структура Данных.cpp
-C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Структура Данных.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Структура Данных.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-  StadyPoligon.vcxproj -> C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\Debug\StadyPoligon.exe
+﻿  Конструкторы.cpp
+D:\ProgectsONC++\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Конструкторы.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\ProgectsONC++\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Конструкторы.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  StadyPoligon.vcxproj -> D:\ProgectsONC++\StudyPoligonOnC-\StadyPoligon\Debug\StadyPoligon.exe
