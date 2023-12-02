@@ -1,4 +1,3 @@
-﻿  Конструкторы.cpp
-D:\ProgectsONC++\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Конструкторы.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-D:\ProgectsONC++\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Конструкторы.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-  StadyPoligon.vcxproj -> D:\ProgectsONC++\StudyPoligonOnC-\StadyPoligon\Debug\StadyPoligon.exe
+﻿  Trening.cpp
+C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Trening.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  StadyPoligon.vcxproj -> C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\Debug\StadyPoligon.exe
