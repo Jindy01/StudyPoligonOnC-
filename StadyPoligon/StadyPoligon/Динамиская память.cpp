@@ -21,6 +21,6 @@ int main() {
 	cin >> words;
 	cout << words;
 
-
+				
 	return 0;
 }
