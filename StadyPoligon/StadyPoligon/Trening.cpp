@@ -2,8 +2,6 @@
 
 using namespace std;
 
-
-
 int stack_of_arr_numbers(int numb) {
 
 	for (int i = 0; i < numb; ++i) {
@@ -15,6 +13,9 @@ int stack_of_arr_numbers(int numb) {
 void read_arr(int* arr, int size) {
 
 	for (int i = 0; i < size; ++i) {
+		if (arr < 6) {
+			continue;
+		}
 		cout << *(arr + i) << " " << endl;
 
 	}
