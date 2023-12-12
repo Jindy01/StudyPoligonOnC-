@@ -1,4 +1,4 @@
 ﻿  Trening.cpp
-C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Trening.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Trening.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  StadyPoligon.vcxproj -> C:\Users\vipfs\Desktop\StudyPoligonOnC-\StadyPoligon\Debug\StadyPoligon.exe
+D:\ProgectsONC++\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Trening.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\ProgectsONC++\StudyPoligonOnC-\StadyPoligon\StadyPoligon\Trening.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  StadyPoligon.vcxproj -> D:\ProgectsONC++\StudyPoligonOnC-\StadyPoligon\Debug\StadyPoligon.exe

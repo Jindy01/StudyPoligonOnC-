@@ -25,13 +25,15 @@ int main() {
 	setlocale(LC_ALL, "RU");
 
 	Building school;
-	//school.type = "Школа";
-	//school.year = 2000;
-	school.set_data(2000, "Школа");
+	school.set_data(2000, "пїЅпїЅпїЅпїЅпїЅ");
 	school.get_info();
 
+	Building town_holl;
+	town_holl.set_data(2012, "РњРµСЂСЂРё");
+	town_holl.set_data();
+
 	Building hospital;
-	hospital.set_data(1990, "Больница");
+	hospital.set_data(1990, "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
 	hospital.get_info();
 	
 }
